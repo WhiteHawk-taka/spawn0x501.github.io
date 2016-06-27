@@ -1,10 +1,10 @@
-body {
+#index-body {
   background: #FAA;
 }
 
 h1 {
   padding-top: 20px;
-  border-bottom:1px solid #AAA;
+  border-bottom: 1px solid #AAA;
 }
 
 .content {
@@ -15,4 +15,8 @@ h1 {
   margin-top: 5px;
   margin-bottom: 5px;
   overflow: auto;
+}
+
+#hide-canvas {
+  margin: 20px;
 }
